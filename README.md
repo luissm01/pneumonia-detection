@@ -40,7 +40,7 @@ pneumonia-detection/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection.git
+git clone https://github.com/luissm01/pneumonia-detection.git
 cd pneumonia-detection
 ```
 
