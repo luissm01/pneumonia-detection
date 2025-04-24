@@ -5,7 +5,7 @@ This project demonstrates how to build, train, and interpret a convolutional neu
 ## 📁 Project Structure
 
 ```
-pneumonia-detection-cam/
+pneumonia-detection/
 │
 ├── notebooks/           # Jupyter notebooks for each step
 │   ├── 01-Preprocess.ipynb
@@ -40,8 +40,8 @@ pneumonia-detection-cam/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection-cam.git
-cd pneumonia-detection-cam
+git clone https://github.com/yourusername/pneumonia-detection.git
+cd pneumonia-detection
 ```
 
 2. Install dependencies (minimal setup):
