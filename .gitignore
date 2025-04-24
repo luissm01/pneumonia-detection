@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+
+# Jupyter and notebook-specific files
+*.ipynb_checkpoints/
+*.ipynb_checkpoints
+.DS_Store
+
+# Logs and outputs
+*.log
+
+# Model weights and artifacts
+*.pth
+*.ckpt
+
+# Processed data and temp files
+*.npy
+*.npz
+data/
+logs/
+weights/
+metrics/
+
+# Environment and system files
+.env
+*.swp
+.vscode/
+.idea/
